@@ -20,9 +20,11 @@ A list of technologies to minimize vendor lock-in.
 - [Serverless Functions](#serverless-functions)
  
 ## Authentication
+**[`^        back to top        ^`](#services)**
 - [GoTrue (Netlify)](https://github.com/netlify/gotrue) - a JWT authentication provider created by Netlify.
 - [GoTrue (Supabase)](https://github.com/supabase/gotrue) - Supabase's fork of GoTrue.
 - [GoTrue-JS](https://github.com/netlify/gotrue-js) - a package to make authentication with GoTrue easy.
 
 ## Serverless Functions
+**[`^        back to top        ^`](#services)**
 - [OpenFaaS](https://www.openfaas.com/) - Deploy serverless functions on your own Kubernetes cluster.
